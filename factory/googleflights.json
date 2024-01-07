@@ -1,0 +1,9 @@
+{
+	"name": "googleflights",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2988b1fb-28a8-41ca-bba7-d2f0e150ae30",
+		"tenantId": "84b56629-da99-4c54-adda-24a4c75bdde6"
+	}
+}
